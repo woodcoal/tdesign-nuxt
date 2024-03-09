@@ -1,4 +1,6 @@
 export const componentMap = {
+  steps:["Steps", "StepItem"],
+  tabs:["Tabs", "TabPanel"],
   button: ['Button'],
   icon: ['Icon'],
   link: ['Link'],
